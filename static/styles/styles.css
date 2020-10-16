@@ -1,7 +1,7 @@
 body{
     background-color: #303136;
-    color: #a9a9a9;
-    margin: 0;
+    color: #f0f0f0;
+    margin: 0 0 0 0;
 }
 
 @font-face {
@@ -21,12 +21,12 @@ body{
 }
 
 .title p{
-    margin-top: 0;
+    margin: 0 0 0 0;
     padding-top: 7vh;
 }
 
 .title img{
-    padding-top: 6vh;
+    padding-top: 8vh;
     max-height: 65vh;
 }
 
@@ -35,4 +35,31 @@ body{
     background-size: cover;
     width: auto;
     height: 100vh;
+    font-family: HiBlack, serif;
+}
+
+.manpic p{
+    font-size: 5vw;
+    letter-spacing: 3vw;
+    word-spacing: 5vw;
+    padding-top: 90vh;
+    text-align: center;
+    width: auto;
+}
+
+.mappage{
+    background-image: url("../images/map_clear.png");
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: center;
+    width: auto;
+    height: 100vh;
+    font-family: HiBlack, serif;
+    text-align: left;
+}
+
+.mappage ul{
+    font-size: 3vw;
+    padding-top: 20vh;
+    padding-left: 5vw;
 }
