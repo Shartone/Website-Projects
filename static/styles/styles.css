@@ -1,5 +1,6 @@
 body{
     background-color: #303136;
+    color: #a9a9a9;
 }
 
 @font-face {
@@ -10,13 +11,12 @@ body{
     font-display: swap;
 }
 
-h1{
+.title{
     font-family: HiBlack, serif;
-}
-h2{
-    font-family: HiBlack, serif;
-}
-div{
-    margin-top: 1000px;
-    text-align: center;
+    margin-left: 30vw;
+    text-align: left;
+    width: auto;
+    height: auto;
+    font-size: 3vh;
+    margin-top: 10vh;
 }
