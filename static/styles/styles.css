@@ -1,3 +1,15 @@
 body{
-    background-color: #474a51
+    background-color: #474a51;
+}
+
+@font-face {
+    font-family: "HiBlack";
+    src: url("../fonts/HiBlack.otf") format("opentype");
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+}
+
+h1{
+    font-family: HiBlack, serif;
 }
