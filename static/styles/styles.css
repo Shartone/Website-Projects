@@ -14,16 +14,24 @@ body{
 
 .title{
     font-family: HiBlack, serif;
-    padding-left: 60vw;
-    text-align: left;
+    text-align: center;
     width: auto;
-    height: auto;
-    font-size: 3vh;
-    padding-top: 10vh;
+    height: 100vh;
+    font-size: 4vw;
+}
+
+.title p{
+    margin-top: 0;
+    padding-top: 7vh;
+}
+
+.title img{
+    padding-top: 6vh;
+    max-height: 65vh;
 }
 
 .manpic{
-    background-image: url("../images/man.png");
+    background-image: url("../images/Rayen Rain.png");
     background-size: cover;
     width: auto;
     height: 100vh;
