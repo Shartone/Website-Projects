@@ -104,22 +104,22 @@ body {
 .prices {
     font-family: HiBlack, serif;
     height: 100vh;
-    width: 65vw;
+    width: 55vw;
     text-align: left;
     font-size: 4vw;
     display: inline-block;
     vertical-align: top;
-}
-
-.prices ul {
-    padding-left: 10vw;
-    padding-top: 5vh;
+    margin-left: 10vw;
 }
 
 .prices p {
-    padding-left: 10vw;
     margin: 0 0 0 0;
     padding-top: 15vh;
+}
+
+.prices ul {
+    margin: 0 0 0 0;
+    padding-top: 5vh;
 }
 
 .pricestitle {
