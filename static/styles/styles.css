@@ -87,20 +87,28 @@ body{
 
 .prices {
     font-family: HiBlack, serif;
+    width: 65vw;
+    display: inline-block;
+}
+
+.pohuy {
+    font-family: HiBlack, serif;
     text-align: right;
-    width: auto;
+    width: 30vw;
     height: 80vh;
     font-size: 3vw;
     text-transform: uppercase;
+    display: inline-block;
 }
 
-.prices p{
-    margin-right: 2px;
-    margin-top: 2px;
+.pohuy p{
+    margin: 0 0 0 0;
+    padding-right: 12vw;
     padding-top: 5vh;
 }
 
-.prices img{
+.pohuy img{
     padding-top: 8vh;
     max-height: 65vh;
+    padding-right: 12vw;
 }
