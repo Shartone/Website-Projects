@@ -17,6 +17,14 @@ body {
     font-display: swap;
 }
 
+@font-face {
+    font-family: "Comic Sans";
+    src: url("../fonts/comicsans.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+}
+
 .container {
     height: 100vh;
     scroll-snap-type: y mandatory;
