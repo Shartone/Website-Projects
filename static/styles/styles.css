@@ -89,6 +89,9 @@ body{
     font-family: HiBlack, serif;
     width: 65vw;
     display: inline-block;
+    text-align: left;
+    height: 100vh;
+    font-size: 4vw;
 }
 
 .pricestitle {
