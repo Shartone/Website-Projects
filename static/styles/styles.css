@@ -63,3 +63,11 @@ body{
     padding-top: 20vh;
     padding-left: 5vw;
 }
+
+.prices {
+    font-family: HiBlack, serif;
+    text-align: right;
+    width: auto;
+    height: 80vh;
+    font-size: 3vw;
+}
