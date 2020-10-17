@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #303136;
     color: #f0f0f0;
     margin: 0 0 0 0;
@@ -12,7 +12,7 @@ body{
     font-display: swap;
 }
 
-.title{
+.title {
     font-family: HiBlack, serif;
     text-align: center;
     width: auto;
@@ -20,17 +20,17 @@ body{
     font-size: 4vw;
 }
 
-.title p{
+.title p {
     margin: 0 0 0 0;
     padding-top: 7vh;
 }
 
-.title img{
+.title img {
     padding-top: 8vh;
     max-height: 65vh;
 }
 
-.manpic{
+.manpic {
     background-image: url("../images/Rayen Rain.png");
     background-size: cover;
     width: auto;
@@ -38,7 +38,7 @@ body{
     font-family: HiBlack, serif;
 }
 
-.manpic p{
+.manpic p {
     font-size: 5vw;
     letter-spacing: 3vw;
     word-spacing: 5vw;
@@ -47,7 +47,7 @@ body{
     width: auto;
 }
 
-.mappage{
+.mappage {
     background-image: url("../images/map_clear.png");
     background-repeat: no-repeat;
     background-position-x: right;
@@ -58,17 +58,17 @@ body{
     text-align: left;
 }
 
-.mappage ul{
+.mappage ul {
     font-size: 3vw;
     padding-top: 20vh;
     padding-left: 5vw;
 }
 
-.mappage a{
+.mappage a {
     padding-left: 5vw;
 }
 
-.button{
+.button {
     background-color: #121212;
     color: #f0f0f0;
     border: none;
@@ -80,7 +80,7 @@ body{
     transition: all 0.3s;
 }
 
-.button:hover{
+.button:hover {
     background-color: #171717;
     transition: 0.3s;
 }
@@ -104,12 +104,12 @@ body{
     display: inline-block;
 }
 
-.pricestitle p{
+.pricestitle p {
     margin: 0 0 0 0;
     padding-top: 5vh;
 }
 
-.pricestitle img{
+.pricestitle img {
     padding-top: 8vh;
     max-height: 65vh;
 }
