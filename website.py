@@ -11,4 +11,9 @@ def mainpage():
     return render_template('mainpage.html')
 
 
+@app.route('/prices')
+def prices():
+    return render_template('mainpage-2.html')
+
+
 app.run(host='0.0.0.0', port=5000, debug=True)
