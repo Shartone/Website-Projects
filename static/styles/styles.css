@@ -57,6 +57,8 @@ body {
 .manpic {
     background-image: url("../images/Rayen Rain.png");
     background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
     width: auto;
     height: 100vh;
     font-family: HiBlack, serif;
