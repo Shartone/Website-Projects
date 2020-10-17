@@ -91,24 +91,22 @@ body{
     display: inline-block;
 }
 
-.pohuy {
+.pricestitle {
     font-family: HiBlack, serif;
-    text-align: right;
+    text-align: left;
     width: 30vw;
-    height: 80vh;
+    height: 100vh;
     font-size: 3vw;
     text-transform: uppercase;
     display: inline-block;
 }
 
-.pohuy p{
+.pricestitle p{
     margin: 0 0 0 0;
-    padding-right: 12vw;
     padding-top: 5vh;
 }
 
-.pohuy img{
+.pricestitle img{
     padding-top: 8vh;
     max-height: 65vh;
-    padding-right: 12vw;
 }
