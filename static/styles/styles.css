@@ -91,4 +91,16 @@ body{
     width: auto;
     height: 80vh;
     font-size: 3vw;
+    text-transform: uppercase;
+}
+
+.prices p{
+    margin-right: 2px;
+    margin-top: 2px;
+    padding-top: 5vh;
+}
+
+.prices img{
+    padding-top: 8vh;
+    max-height: 65vh;
 }
